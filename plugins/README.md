@@ -1,3 +1,3 @@
-# Application made with flutter
+# Plugins made with flutter
 
-list of flutter application
+list of flutter plugins
